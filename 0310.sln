@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0310", "0310\0310.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study16_streamreader_writer", "study16_streamreader_writer\study16_streamreader_writer.csproj", "{F9BF7E3D-2819-4EE2-A3A9-9C17C9B2C8B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study18_Timer", "study18_Timer\study18_Timer.csproj", "{6220D944-26C1-4D6D-9DA5-9D2A9151B09F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F9BF7E3D-2819-4EE2-A3A9-9C17C9B2C8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9BF7E3D-2819-4EE2-A3A9-9C17C9B2C8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9BF7E3D-2819-4EE2-A3A9-9C17C9B2C8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6220D944-26C1-4D6D-9DA5-9D2A9151B09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6220D944-26C1-4D6D-9DA5-9D2A9151B09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6220D944-26C1-4D6D-9DA5-9D2A9151B09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6220D944-26C1-4D6D-9DA5-9D2A9151B09F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
