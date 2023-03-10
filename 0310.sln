@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study16_streamreader_writer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study18_Timer", "study18_Timer\study18_Timer.csproj", "{6220D944-26C1-4D6D-9DA5-9D2A9151B09F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study19_암호화_복호화", "study19_암호화_복호화\study19_암호화_복호화.csproj", "{B253127B-DE71-42B5-9F52-A6C616FE9EED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{6220D944-26C1-4D6D-9DA5-9D2A9151B09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6220D944-26C1-4D6D-9DA5-9D2A9151B09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6220D944-26C1-4D6D-9DA5-9D2A9151B09F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B253127B-DE71-42B5-9F52-A6C616FE9EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B253127B-DE71-42B5-9F52-A6C616FE9EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B253127B-DE71-42B5-9F52-A6C616FE9EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B253127B-DE71-42B5-9F52-A6C616FE9EED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
