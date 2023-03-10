@@ -313,9 +313,9 @@ namespace study20_Queue_Stack
             this.lblStack6.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.lblStack6.Dock = System.Windows.Forms.DockStyle.Fill;
             this.lblStack6.Location = new System.Drawing.Point(3, 153);
-            this.lblStack6.Margin = new System.Windows.Forms.Padding(3, 3, 3, 0);
+            this.lblStack6.Margin = new System.Windows.Forms.Padding(3);
             this.lblStack6.Name = "lblStack6";
-            this.lblStack6.Size = new System.Drawing.Size(182, 28);
+            this.lblStack6.Size = new System.Drawing.Size(182, 25);
             this.lblStack6.TabIndex = 10;
             this.lblStack6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
