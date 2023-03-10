@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study18_Timer", "study18_Ti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study19_암호화_복호화", "study19_암호화_복호화\study19_암호화_복호화.csproj", "{B253127B-DE71-42B5-9F52-A6C616FE9EED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "study20_Queue_Stack", "study20_Queue_Stack\study20_Queue_Stack.csproj", "{F25F6DFB-D964-489F-8B01-58DE9B39C67D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B253127B-DE71-42B5-9F52-A6C616FE9EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B253127B-DE71-42B5-9F52-A6C616FE9EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B253127B-DE71-42B5-9F52-A6C616FE9EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F25F6DFB-D964-489F-8B01-58DE9B39C67D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F25F6DFB-D964-489F-8B01-58DE9B39C67D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F25F6DFB-D964-489F-8B01-58DE9B39C67D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F25F6DFB-D964-489F-8B01-58DE9B39C67D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
